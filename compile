@@ -1,0 +1,2 @@
+#!/bin/sh
+gcc -Wall -o iremoted iremoted.cpp -framework IOKit -framework Carbon
